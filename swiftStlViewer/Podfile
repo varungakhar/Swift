@@ -1,0 +1,10 @@
+ platform :ios, '9.0'
+
+target 'swiftStlViewer' do
+
+  use_frameworks!
+
+ pod 'GoogleAPIClientForREST/Sheets'
+    pod 'GoogleSignIn'
+pod 'SwiftyDropbox'
+end

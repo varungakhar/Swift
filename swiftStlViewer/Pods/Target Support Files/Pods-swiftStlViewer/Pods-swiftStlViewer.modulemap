@@ -1,0 +1,6 @@
+framework module Pods_swiftStlViewer {
+  umbrella header "Pods-swiftStlViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
